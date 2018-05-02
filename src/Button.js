@@ -34,6 +34,6 @@ const Button = (props) => {
             </button>
         </div>
     );
-}
+};
 
 export default Button;
