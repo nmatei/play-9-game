@@ -1,0 +1,4 @@
+/.idea/
+/.sencha/
+*.iml
+/node_modules/
