@@ -1,3 +1,5 @@
+import React from "react";
+
 const DoneFrame = props => {
   return (
     <div className="text-center">
